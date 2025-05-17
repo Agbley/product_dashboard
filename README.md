@@ -5,9 +5,6 @@
 2. Run `npm install`
 3. Run `npm run dev`
 
-## 🌐 Live Link
-[Hosted on Render](https://your-render-link)
-
 ## 📁 Features
 - View, create, edit, delete products
 - Mark products as favorites
