@@ -13,7 +13,7 @@
 - Responsive, with toast notifications
 
 ## 📌 Decisions & Assumptions
-- Used Zustand for simplicity over Redux
+- Used React’s built-in useState and useEffect for state management.
 - Client-side pagination for better UX
 - Favorites stored in localStorage
 
