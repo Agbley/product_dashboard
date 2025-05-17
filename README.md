@@ -6,7 +6,7 @@
 3. Run `npm run dev`
 
 ## 🌐 Live Link
-[Hosted on Render](https://product-dashboard-602g.onrender.com)
+[Hosted on Vercel](https://product-dashboard-woad.vercel.app/)
 
 ## 📁 Features
 - View, create, edit, delete products
