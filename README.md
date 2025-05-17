@@ -5,6 +5,9 @@
 2. Run `npm install`
 3. Run `npm run dev`
 
+## 🌐 Live Link
+[Hosted on Render](https://product-dashboard-602g.onrender.com)
+
 ## 📁 Features
 - View, create, edit, delete products
 - Mark products as favorites
@@ -13,7 +16,7 @@
 - Responsive, with toast notifications
 
 ## 📌 Decisions & Assumptions
-- Used React’s built-in useState and useEffect for state management.
+- Used React’s built-in useState and useEffect for state management
 - Client-side pagination for better UX
 - Favorites stored in localStorage
 
